@@ -1,14 +1,33 @@
-👋 Hi, I’m @ouali99
-👀 I’m interested in web and mobile development, with a focus on microservices architecture, cloud deployment, and mobile apps.
-🌱 I’m currently learning web development with microservices, deployment on Azure and AWS, and working on a project called UberTaxi, which simulates the Uber app using Flutter.
-💼 I’m actively looking for an internship in web or mobile development, where I can apply my skills in front-end, back-end, and cloud technologies.
-💞️ I’m eager to collaborate on innovative projects and to contribute to a dynamic development team.
-📫 You can reach me at ouali.ouldbraham2@gmail.com or connect with me on LinkedIn www.linkedin.com/in/ouali-ould-braham-b2143631a.
-😄 Pronouns: He/Him
-⚡ Fun fact: I’m passionate about creating scalable apps and continuously exploring the latest in cloud computing and mobile technology.
+# Ouali Ould Braham
 
+## Software Developer | Web & AI Specialist
 
-<!---
-ouali99/ouali99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello! I'm a developer passionate about building scalable web applications and AI-powered solutions with modern technologies.
+
+### 🔧 Technical Focus
+- **Web Development**: Microservices architecture, RESTful APIs, React/Angular
+- **Artificial Intelligence**: Machine learning frameworks, NLP, computer vision, AI integration in web applications
+- **Cloud Technologies**: AWS, Azure, containerization & orchestration
+- **Current Project**: UberTaxi - A ride-sharing application built with Flutter and AI-powered route optimization
+
+### 🎓 Professional Journey
+- Currently deepening my expertise in cloud-native applications, microservices, and AI technologies
+- Actively seeking internship opportunities in web development or AI-focused projects
+- Strong foundation in both front-end technologies and AI integration
+
+### 💼 What I Bring to Teams
+- Analytical problem-solving approach
+- Commitment to clean, maintainable code
+- Enthusiasm for learning cutting-edge AI and web technologies
+- Experience with agile development methodologies
+
+### 📫 Connect With Me
+- Email: ouali.ouldbraham2@gmail.com
+- LinkedIn: [Ouali Ould Braham](https://www.linkedin.com/in/ouali-ould-braham-b2143631a)
+- Pronouns: He/Him
+
+### ⚡ Beyond Coding
+I'm particularly interested in the intersection of web technologies and artificial intelligence. I continuously explore advanced ML models, AI application development, and innovative web frameworks.
+
+---
+*Open to collaboration on innovative projects and eager to contribute to a dynamic development team focused on web and AI solutions.*
